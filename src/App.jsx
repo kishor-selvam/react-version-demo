@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Version Demo App</h1>
+      <h1>Bug fixed in hotfix</h1>
     </>
   )
 }
